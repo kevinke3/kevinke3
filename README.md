@@ -56,7 +56,7 @@ Welcome to my GitHub! I’m a full-stack developer passionate about building pra
 
 <p>
   <a href="https://twitter.com/__kefin__" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
-  <a href="https://kevin-gold-three.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a>
+  <a href="https://kevinrelated.com/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a>
   <a href="https://instagram.com/kefini._" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <!-- Optional: <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> -->
 </p>
